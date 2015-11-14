@@ -21,7 +21,7 @@
 #define __RTW_DEBUG_H__
 
 
-#define _drv_always_		1
+#define _drv_always_		6
 #define _drv_emerg_			2
 #define _drv_alert_			3
 #define _drv_crit_			4
